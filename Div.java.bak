@@ -1,0 +1,8 @@
+class Div 
+{
+	public static void main(String[] args) 
+	{
+		int n=15;
+		System.out.println(n%7==0?n+7+"It is divisible: ":n-7+"It is not divisible: ");
+	}
+}
